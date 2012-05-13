@@ -81,7 +81,7 @@ nmap <silent> <C-k> :NERDTreeToggle<CR>
 
 
 "" Custom Bindings
-
+map <silent> <F2> :set invnumber<cr>
 
 "" Syntastic
 set statusline+=%#warningmsg#

@@ -1,11 +1,10 @@
 dotfiles
 ========
 
-I use a DVORAK keyboard 
-this breaks lots of vim functionality; 
-the purpose of my dotfiles are to piece back 
-together as much as i can via creative rebindings!
+I use a DVORAK keyboard; this makes vim a drag 
+
+so i rebound a bunch of movement keys and set up tmux and vim with solarized.
 
 tmux bash vim solarizad n dvorak yo---ultimate l337 keys.
 
--RG
+
